@@ -3,7 +3,7 @@ include('dbCon.php');
 if(isset($_POST['update'])){
 	$id     = $_GET['id'];
 	$name   = $_POST['name'];
-	$pphone = $_POST['phone'];
+	$phone  = $_POST['phone'];
 	$email  = $_POST['email'];
 	$sql    = "update user set name=:name,phone=:phone,email=:email where id=:id";
 	$query  = $con->prepare($sql);
