@@ -12,7 +12,7 @@
 		exit("Error: " . $e->getMessage());
 	}
 ?>
-<!-- ANOTHER WAY CONNECTION WITH DATABASE -->
+			<!-- ANOTHER WAY CONNECTION WITH DATABASE -->
 <?php 
 	try 
 	{
