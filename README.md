@@ -9,4 +9,6 @@ PHP Data Object ( PDO )
 - Insert Statment
 - Update Statment
 - Delete Statment
-- Task List Apps using prepared statement PDO
+# Application
+ - TaskList Apps using Prepared Statement
+ - TaskList Apps using PDO
