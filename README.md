@@ -14,3 +14,6 @@ PHP Data Object ( PDO )
 # Application
  - TaskList Apps using Prepared Statement
  - TaskList Apps using PDO
+ - Todo Apps using PDO
+ - Simple Blog System Apps using PDO
+ - Complete CMS Apps using PDO
