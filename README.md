@@ -17,3 +17,5 @@ PHP Data Object ( PDO )
  - Todo Apps using PDO
  - Simple Blog System Apps using PDO
  - Complete CMS Apps using PDO
+ - E-Commerce Application using PDO
+ - Point of Sale (POS) Inventory Management System using PDO
